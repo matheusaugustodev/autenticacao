@@ -20,3 +20,5 @@ app.use('/', UserRoutes)
 app.get('/', (req, res) => res.json({ message: 'Hello World!' }))
 
 app.listen(APP_PORT, () => console.info(`Servidor rodando em ${APP_URL}`))
+
+module.exports = app
