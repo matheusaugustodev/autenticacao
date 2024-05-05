@@ -1,0 +1,6 @@
+Pacotes instalados:
+- Express
+- Sequelize
+- Mysql2
+- Express-session
+- connect-flash
